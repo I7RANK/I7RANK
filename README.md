@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     guitar :guitar: although my guitar is broken :triumph: also I like the videogames, I made a little game about
     pippelines you can find it here in my GitHub.
 </p>
-
+&nbsp;
 <h2>My Stack</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
             alt="python" width="40" height="40" />
     </a>
 </p>
-
+&nbsp;
 <h2>My GitHub Stats</h2>
 <div align="center">
     <img align="center"
