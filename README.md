@@ -65,7 +65,7 @@ Here are some ideas to get you started:
             alt="python" width="40" height="40" />
     </a>
     <a href="https://nodejs.org/en/" target="_blank">
-        <img src="https://nodejs.org/static/images/logo.svg"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"
             alt="python" width="40" height="40" />
     </a>
 </p>
