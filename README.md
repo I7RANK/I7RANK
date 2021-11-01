@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     pippelines you can find it here in my GitHub.
 </p>
 &nbsp;
+
 <h2>My Stack</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img
@@ -63,7 +64,12 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
     </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img src="https://nodejs.org/static/images/logo.svg"
+            alt="python" width="40" height="40" />
+    </a>
 </p>
+
 &nbsp;
 <h2>My GitHub Stats</h2>
 <div align="center">
