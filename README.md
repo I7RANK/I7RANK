@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi! I'm Francisco Guzmán 👋</h1>
 <p align="center">
-    I'm A passionate Full-Stack Software Developer with strong development skills in C, JavaScript, HTML, CSS, nodeJS, and Python, as well as knowledge of servers, web infrastructure, and mobile development, I like the music someday I would like make a song, I love play
-    guitar :guitar: also I like the videogames, I made a little game about
-    pippelines you can find it here in my GitHub.
+    I'm A Junior Full-Stack Software Engineer inclined to FrontEnd with strong development skills in C, NodeJS, Python, React, JavaScript, HTML, CSS, Algorithms, as well as knowledge in servers, web infrastructure, and mobile development. I am 21 years old, I like to play the guitar 🎸 and especially car and football video games.
 </p>
 &nbsp;
 
